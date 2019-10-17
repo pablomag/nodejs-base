@@ -1,0 +1,8 @@
+/node_modules
+/bkp
+.idea
+**/*.log
+**/*.dia
+*.yo-rc.json
+.env
+/config/default.json
