@@ -27,7 +27,7 @@
   "homepage": "https://vampaerr@bitbucket.org/vampaerr/repo-name#readme",
   "dependencies": {
     "@hapi/joi": "^15.0.3",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "config": "^1.*.*",
     "dotenv": "^8.0.0",
