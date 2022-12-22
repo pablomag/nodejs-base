@@ -35,7 +35,7 @@
     "express-handlebars": "^3.0.2",
     "express-session": "^1.16.1",
     "joi-objectid": "^2.0.0",
-    "jsonwebtoken": "^8.*.*",
+    "jsonwebtoken": "^9.*.*",
     "mongoose": "^5.5.8",
     "mongoose-slug-generator": "^1.0.4",
     "request": "^2.*.*",
